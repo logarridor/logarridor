@@ -1,0 +1,4 @@
+- 👋 Hola, soy Lorenzo Garrido
+- 👀 Estoy interesado en la Informatica
+- 🌱 Estoy terminando de aprender Lua
+- 😄 Pronombres: Él
